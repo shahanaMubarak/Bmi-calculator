@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shahanaMubarak/Bmi-calculator.git/static/css/main.f09a1402.chunk.css",
+    "main.js": "/shahanaMubarak/Bmi-calculator.git/static/js/main.9e0d25df.chunk.js",
+    "main.js.map": "/shahanaMubarak/Bmi-calculator.git/static/js/main.9e0d25df.chunk.js.map",
+    "runtime-main.js": "/shahanaMubarak/Bmi-calculator.git/static/js/runtime-main.86b510fb.js",
+    "runtime-main.js.map": "/shahanaMubarak/Bmi-calculator.git/static/js/runtime-main.86b510fb.js.map",
+    "static/js/2.9f4ff9fa.chunk.js": "/shahanaMubarak/Bmi-calculator.git/static/js/2.9f4ff9fa.chunk.js",
+    "static/js/2.9f4ff9fa.chunk.js.map": "/shahanaMubarak/Bmi-calculator.git/static/js/2.9f4ff9fa.chunk.js.map",
+    "static/js/3.2f897124.chunk.js": "/shahanaMubarak/Bmi-calculator.git/static/js/3.2f897124.chunk.js",
+    "static/js/3.2f897124.chunk.js.map": "/shahanaMubarak/Bmi-calculator.git/static/js/3.2f897124.chunk.js.map",
+    "index.html": "/shahanaMubarak/Bmi-calculator.git/index.html",
+    "static/css/main.f09a1402.chunk.css.map": "/shahanaMubarak/Bmi-calculator.git/static/css/main.f09a1402.chunk.css.map",
+    "static/js/2.9f4ff9fa.chunk.js.LICENSE.txt": "/shahanaMubarak/Bmi-calculator.git/static/js/2.9f4ff9fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86b510fb.js",
+    "static/js/2.9f4ff9fa.chunk.js",
+    "static/css/main.f09a1402.chunk.css",
+    "static/js/main.9e0d25df.chunk.js"
+  ]
+}
